@@ -28,4 +28,5 @@ header {
 
 background-image {
 	background-attachment: fixed;
+	background-repeat:repeat;
 }
