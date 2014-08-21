@@ -27,7 +27,7 @@ nav {
 
 nav {
     opacity: 0.4;
-    background-color: purple;
+    background-color: white;
 
 }
 
@@ -49,7 +49,6 @@ nav > a:hover {
 #container {
     margin: 30px auto;
     padding: 40px 0px 0px;
-    background: none repeat scroll 0% 0% #FFF;
     clear: both;
     border-radius: 2px;
     width: 80%;
