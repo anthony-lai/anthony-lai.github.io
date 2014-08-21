@@ -49,6 +49,7 @@ nav > a:hover {
 #container {
     margin: 30px auto;
     padding: 40px 0px 0px;
+    background: none repeat scroll 0% 0% #5A0003;
     clear: both;
     border-radius: 2px;
     width: 80%;
