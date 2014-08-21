@@ -4,6 +4,7 @@ body {
 	height: 100%;
 	width: 100%;
 	clear: both;
+	background-color: black;
 }
 
 header {
@@ -55,5 +56,6 @@ nav > a:hover {
 }
 
 a { text-decoration: none;
+	list-style-type: none;
 	color: #8E9240;}
 
