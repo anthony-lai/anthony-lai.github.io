@@ -1,3 +1,12 @@
+html { 
+  background: url(http://i.imgur.com/Yc8NRDL.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
 body {
 	margin: 0px;
 	padding: 0px;
@@ -25,9 +34,12 @@ nav {
         transition-delay: 0s;
 }
 
-ul {
-	display: inline-block;
+nav ul {
 	list-style-type: none;
+}
+
+nav ul li {
+	display: inline-block;
 }
 
 nav {
