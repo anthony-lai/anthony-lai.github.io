@@ -76,5 +76,10 @@ a { text-decoration: none;
 	color: #8E9240;}
 
 #Name{
+	float:left;
 	text-transform: uppercase;
+}
+
+#Philosophy{
+	float:right;
 }
