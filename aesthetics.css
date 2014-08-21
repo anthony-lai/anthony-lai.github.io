@@ -26,7 +26,7 @@ header {
     width: 80%;
 }
 
-div > #background-image {
+.background-image {
 	height: 100%;
 	width:100%;
 	background-attachment: fixed;
