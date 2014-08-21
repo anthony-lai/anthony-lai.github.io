@@ -15,6 +15,33 @@ header {
 	background-color: #5A0003
 }
 
+
+header {
+    transition: opacity 0.5s ease 0s;
+        transition-property: opacity;
+        transition-duration: 0.5s;
+        transition-timing-function: ease;
+        transition-delay: 0s;
+}
+
+header {
+    opacity: 0.4;
+    height: 18px;
+    background-color: white;
+    border-bottom: 1px solid #333;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: #333;
+}
+
+header:hover {
+    opacity: 90;
+}
+
+header > a:hover { 
+    text-decoration: underline;
+}
+
 .BackgroundImage > img {
 	height: 100%;
 	width:100%;
@@ -33,3 +60,4 @@ header {
 
 a { text-decoration: none;
 	color: #8E9240;}
+
