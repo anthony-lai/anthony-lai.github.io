@@ -1,5 +1,10 @@
 body {
-	<img src=http://i.imgur.com/IHu2Hq3.png />
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+	background: none repeat scroll 0% 0%;
+	clear: both;
 }
 
 header {
@@ -9,6 +14,7 @@ header {
 	padding-top: 25px;
 	padding-bottom: 25px;
 	color: 8E9240;
+	background-color: #5A0003
 }
 
 #container {
