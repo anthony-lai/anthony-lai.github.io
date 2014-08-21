@@ -16,7 +16,7 @@ header {
 }
 
 
-header {
+nav {
     transition: opacity 0.5s ease 0s;
         transition-property: opacity;
         transition-duration: 0.5s;
@@ -24,7 +24,7 @@ header {
         transition-delay: 0s;
 }
 
-header {
+nav {
     opacity: 0.4;
     height: 18px;
     background-color: white;
@@ -34,11 +34,11 @@ header {
         border-bottom-color: #333;
 }
 
-header:hover {
+nav:hover {
     opacity: 90;
 }
 
-header > a:hover { 
+nav > a:hover { 
     text-decoration: underline;
 }
 
