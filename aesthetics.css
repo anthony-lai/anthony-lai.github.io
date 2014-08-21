@@ -44,7 +44,7 @@ nav ul li {
 nav {
     opacity: 0.85;
     background: url(http://i.imgur.com/TuiuxqC.jpg);
-    border: 1px solid black;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3);
 
 }
 
@@ -92,6 +92,6 @@ a { text-decoration: none;
 }
 
 #content {
-	background-image: url(http://i.imgur.com/TuiuxqC.jpg);
+	background: black;
     border: 1px solid black;
 }
