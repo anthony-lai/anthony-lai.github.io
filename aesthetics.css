@@ -26,12 +26,8 @@ nav {
 
 nav {
     opacity: 0.4;
-    height: 18px;
-    background-color: white;
-    border-bottom: 1px solid #333;
-        border-bottom-width: 1px;
-        border-bottom-style: solid;
-        border-bottom-color: #333;
+    background-color: purple;
+
 }
 
 nav:hover {
