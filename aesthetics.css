@@ -15,6 +15,13 @@ header {
 	background-color: #5A0003
 }
 
+.BackgroundImage > img {
+	height: 100%;
+	width:100%;
+	background-attachment: fixed;
+
+}
+
 #container {
     margin: 30px auto;
     padding: 40px 0px 0px;
@@ -24,9 +31,5 @@ header {
     width: 80%;
 }
 
-.BackgroundImage > img {
-	height: 100%;
-	width:100%;
-	background-attachment: fixed;
-
-}
+a { text-decoration: none;
+	color: #8E9240;}
