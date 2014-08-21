@@ -7,12 +7,12 @@ body {
 }
 
 header {
-	font-family: cursive, Calisto MT, ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif;
+	font-family: Calisto MT, ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif;
 	font-weight: bold;
 	text-align: center;
 	padding-top: 25px;
 	padding-bottom: 25px;
-	color: 8E9240;
+	color: #8E9240;
 	background-color: #5A0003
 }
 
