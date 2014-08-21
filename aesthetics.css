@@ -95,3 +95,5 @@ a { text-decoration: none;
 	background: url(http://i.imgur.com/FrGPm1y.jpg);
     border: 1px solid black;
 }
+
+img {margin: auto auto 15px 45px;}
