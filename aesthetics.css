@@ -104,4 +104,15 @@ img {
 
 .Content_Super_Header{
 	text-align: center;
+	font-size: 45px;
 }
+
+.Content_Super_Header:before, .Content_Super_Header:after {
+    content: attr(title);
+    padding: 50px;
+    color: rgba(255,255,255,.1);
+    position: absolute;
+}
+
+.Content_Super_Header:before { top: 1px; left: 1px }
+.Content_Super_Header:after  { top: 2px; left: 2px }
