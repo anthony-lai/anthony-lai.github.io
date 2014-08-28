@@ -112,8 +112,7 @@ h1 {
     line-height: 1em;
 }
 .engraved {
-    /* Shadows are visible under slightly transparent text color */
-    color: rgba(193, 200, 75, 0.8);
+    color: rgba(221, 221, 221, 0.8);
 	text-shadow: 1px 4px 6px #FFF, 0px 0px 0px #000, 1px 4px 6px #FFF;
 }
 /* Don't show shadows when selecting text */
