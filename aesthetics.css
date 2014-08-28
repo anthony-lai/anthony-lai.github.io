@@ -1,5 +1,5 @@
 html { 
-  background: url(http://i.imgur.com/Yc8NRDL.png) no-repeat center center fixed; 
+  background: url(Black_Granite.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -43,7 +43,7 @@ nav ul li {
 
 nav {
     opacity: 0.85;
-    background: url(http://i.imgur.com/TuiuxqC.jpg);
+    background: url(White_Marble.jpg);
     box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3);
 
 }
@@ -92,7 +92,7 @@ a { text-decoration: none;
 }
 
 #Content {
-	background: url(http://i.imgur.com/FrGPm1y.jpg);
+	background: url(White_Marble_2.jpg);
     border: 1px solid black;
 }
 
