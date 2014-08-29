@@ -106,9 +106,27 @@ img {
 	text-align: center;
 }
 
+.Content_Header{
+	text-align: center;
+}
+
+.Content_Header_Underline{
+	font-size: 3em;
+	position: relative;
+    top: -125px;
+}
+
+.Content_Text{
+	position: relative;
+    top: -130px;
+    left: 15%;
+    width: 70%;
+    font-size: 20px;
+}
+
 h1 {
     font-weight: bold;
-    font-size: 3.7em;
+    font-size: 3.2em;
     line-height: 1em;
 }
 .engraved {
