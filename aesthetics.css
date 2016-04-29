@@ -136,6 +136,11 @@ h1 {
     color: rgba(221, 221, 221, 0.8);
 	text-shadow: 1px 4px 6px #FFF, 0px 0px 0px #000, 1px 4px 6px #FFF;
 }
+
+.audax {
+	font-weight: bold;
+}
+
 /* Don't show shadows when selecting text */
 ::-moz-selection { background: #5af; color: #fff; text-shadow: none; }
 ::selection { background: #5af; color: #fff; text-shadow: none; }
