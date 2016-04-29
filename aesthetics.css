@@ -4,7 +4,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  font-family: Trajan Pro, Bell MT, Calisto MT, ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif;
+  font-family: Trajan Pro, Calisto MT, ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif;
 }
 
 
@@ -139,6 +139,15 @@ h1 {
 
 .audax {
 	font-weight: bold;
+}
+
+.left {
+	font-style: italic;
+	float:left;
+}
+
+.right {
+	float:right;
 }
 
 /* Don't show shadows when selecting text */
